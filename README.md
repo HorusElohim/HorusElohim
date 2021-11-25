@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HorusElohim:\
 > * IT&Telecominication Eng.
 > * ML&DL Knower
-> * 3D PrintMaker
-> * Raspian user 
+> * 3D-Print Maker
+> * Raspian & JetsonNano User
 > * Py && C++ coder
    
 - 👀 I’m interested in AI/General IT/Hardware 
